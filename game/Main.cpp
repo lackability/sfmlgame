@@ -108,7 +108,7 @@ int main() {
     }
 
     //after load
-    music.setVolume(30);
+    music.setVolume(5);
     music.play();
     //setting textures
     player.setTexture(playerrightTexture);
